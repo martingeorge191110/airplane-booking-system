@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airplane-booking-system/static/css/main.ea7def6a.css",
+    "main.js": "/airplane-booking-system/static/js/main.6f36f455.js",
+    "static/js/453.bb24d3a1.chunk.js": "/airplane-booking-system/static/js/453.bb24d3a1.chunk.js",
+    "index.html": "/airplane-booking-system/index.html",
+    "main.ea7def6a.css.map": "/airplane-booking-system/static/css/main.ea7def6a.css.map",
+    "main.6f36f455.js.map": "/airplane-booking-system/static/js/main.6f36f455.js.map",
+    "453.bb24d3a1.chunk.js.map": "/airplane-booking-system/static/js/453.bb24d3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea7def6a.css",
+    "static/js/main.6f36f455.js"
+  ]
+}
