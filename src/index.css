@@ -21,7 +21,11 @@
  */
 
 body {
-  margin: 0;}
+  margin: 0;
+  box-sizing: border-box;
+  background: url('https://raw.githubusercontent.com/ayush9304/Flight/master/flight/static/img/plane3.1.jfif') no-repeat center center fixed;
+  background-size: cover;
+}
 
 /**
  * Render the `main` element consistently in IE.
