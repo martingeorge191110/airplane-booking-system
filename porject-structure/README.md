@@ -16,6 +16,7 @@
                     <h2>Create Nav Bar Folder</h2>
                     <h3>Create Nav Bar jsx file css file</h3>
                     <h1>Create Photoes folder</h1>
-2 \\ Date[27-6-2024]:<h2>Nav Bar Version (1)</h2>
-                    
-                    
+2 \\ Date[30-6-2024]: commit [2]:
+                    apdate the nav bar to header
+                    update nav bar files and folder name
+                    first version of header has been uploaded                 

@@ -1,11 +1,20 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import NavBar from './Components/NavBar/navBar';
+import { BrowserRouter as Router
+  , Route
+  , Switch }
+   from 'react-router-dom';
+import Header from './Components/Header/header';
 
 function App() {
   return (
     <div className="App">
-      <NavBar/>
+      <Router>
+        <Header/>
+        <Switch>
+
+        </Switch>
+      </Router>
     </div>
   );
 }
